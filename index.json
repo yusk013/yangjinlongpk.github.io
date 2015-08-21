@@ -3,41 +3,41 @@
 	"border":"2px solid red",
 	"display": "block",
 	"margin": "10px",
-	"borderRadius": "10px"
+	"borderRadius": "100px 100px 0px 0px"
 },{
 	"url":"https://www.google.com/images/srpr/logo11w.png",
 	"border":"2px solid orange",
 	"display": "block",
 	"margin": "10px",
-	"borderRadius": "10px"
+	"borderRadius": "0px 0px 100px 100px"
 },{
 	"url":"https://www.google.com/images/srpr/logo11w.png",
 	"border":"2px solid yellow",
 	"display": "block",
 	"margin": "10px",
-	"borderRadius": "10px"
+	"borderRadius": "0px 100px 100px 0px"
 },{
 	"url":"https://www.google.com/images/srpr/logo11w.png",
 	"border":"2px solid green",
 	"display": "block",
 	"margin": "10px",
-	"borderRadius": "10px"
+	"borderRadius": "100px 0px 0px 100px"
 },{
 	"url":"https://www.google.com/images/srpr/logo11w.png",
 	"border":"2px solid cyan",
 	"display": "block",
 	"margin": "10px",
-	"borderRadius": "10px"
+	"borderRadius": "0px 100px"
 },{
 	"url":"https://www.google.com/images/srpr/logo11w.png",
 	"border":"2px solid blue",
 	"display": "block",
 	"margin": "10px",
-	"borderRadius": "10px"
+	"borderRadius": "100px 0px"
 },{
 	"url":"https://www.google.com/images/srpr/logo11w.png",
 	"border":"2px solid purple",
 	"display": "block",
 	"margin": "10px",
-	"borderRadius": "10px"
+	"borderRadius": "100px"
 }]
