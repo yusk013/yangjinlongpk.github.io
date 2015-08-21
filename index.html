@@ -3,21 +3,13 @@
 
 <head>
 	<script src="./jquery.min.js"></script>
+	<script src="./index.js"></script>
 </head>
 
 <body>
-	<h1>Hello World</h1>
+	<h1 id="hello">Hello World</h1>
 	<p>I'm hosted with GitHub Pages.</p>
 	<span></span>
 </body>
-<script>
-	function getInt () {
-		return parseInt(Math.random() * 255);
-	}
-	function setColor() {
-		document.getElementsByTagName('h1').style='color: rgb('+getInt() + ',' + getInt() + ',' + getInt()+')';
-	}
-	setInterval(setColor, 500);
-</script>
 
 </html>
